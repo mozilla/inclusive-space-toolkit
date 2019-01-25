@@ -17,14 +17,14 @@ The pressure to constantly learn, grow new skills, and hustle to make an impact 
 
 Mozilla’s mission is to ensure an internet that’s open and accessible to all.  As emerging technologies push the internet into new form factors, the importance of diversity and inclusion in emerging technologies cannot be overstated. 
 
-Our effort is defined by the pressure to hustle as we experience it in Silicon Valley and  around the world.  We also find ourselves in a profound moment with respect to women’s power and representation in workplaces.  Our focus on women and gender non-binary folks in 2018 was shaped by events in the San Francisco Bay Area:  the loss of safe maker spaces and the activist energy that led high-tech employees to walk off the job.  This environment also framed our desired impact: open new opportunities for women from diverse age ranges and backgrounds to work and learn in emerging technology.  In doing so we prepare them to pay it forward in the companies they join, the people they mentor and the innovation they create.
+Our effort is defined by the pressure to hustle as we experience it in Silicon Valley and  around the world.  We also find ourselves in a profound moment with respect to women’s power and representation in workplaces.  Our focus on women and gender non-binary folks in 2018 was shaped by events in the San Francisco Bay Area:  the [loss of safe maker spaces](https://techcrunch.com/2018/03/16/vr-startup-upload-shuts-down-its-offices-as-funding-from-oculus-founder-runs-out/) and the activist energy that led high-tech employees to [walk off the job](https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html).  This environment also framed our desired impact: open new opportunities for women from diverse age ranges and backgrounds to work and learn in emerging technology.  In doing so we prepare them to pay it forward in the companies they join, the people they mentor and the innovation they create.
 
 We offer this toolkit as a perspective on what’s needed for real human connection among people struggling to learn and make it, not only in California, but around the world.  This model is powerful and replicable.  With physical gathering space and community as our guides, we are using mixed reality to design the future communities we want to see: the same intimate connections will be possible at a distance. Looking out 10, 20, 30 years we hope virtual spaces will dismantle the privileges associated with geographical location. 
 
 Why host an inclusive development space for emerging technology? 
-Organizations, community groups, and individuals have an opportunity to ease the way to less biased, more human, more inclusive tech.
-Gain insights about future signals by supporting independent creators and their unique perspectives
-If you’re representing an organization, enrich your talent pool by supporting underrepresented groups in local technical communities
+* Organizations, community groups, and individuals have an opportunity to ease the way to less biased, more human, more inclusive tech.
+* Gain insights about future signals by supporting independent creators and their unique perspectives
+* If you’re representing an organization, enrich your talent pool by supporting underrepresented groups in local technical communities
 
 Drawing on the XR Studio pop-up supported by Mozilla in 2018, we offer four essential elements to replicating a space that connects and empowers underrepresented tech makers: Space, Autonomy, Co-Creation, and Mutual Support.  Each element encapsulates the lessons we learned, and useful resources we drew on or discovered as we went. 
 ## Essential Element: Space
@@ -38,8 +38,8 @@ Find a space where like minded individuals can share honest perspectives without
 In our case, an underutilized space provided us with limitations that sparked our creativity and enabled the next element: autonomy. Identifying value exchanges, such as dedicated equipment access in exchange for mentoring others on how to use that equipment,  sustains collaboration. 
 
 ### Resources:
-Make Space - The feeling of a creative space can be elusive to describe, but is not rocket science to create.  Furniture that’s flexible enough to support different work styles, coworking, and workshop teaching was very helpful to our effort.  
-FabLab Charter - Maintaining cutting-edge equipment in a semi-public space is always challenging.  Clear guidelines of how to treat space, equipment, and one another are essential, and simple rules like “safety: don’t harm people or machines” help keep spaces functioning. 
+[Make Space](https://dschool.stanford.edu/resources/make-space-excerpts) - The feeling of a creative space can be elusive to describe, but is not rocket science to create.  Furniture that’s flexible enough to support different work styles, coworking, and workshop teaching was very helpful to our effort.  
+[FabLab Charter](http://fab.cba.mit.edu/about/charter/) - Maintaining cutting-edge equipment in a semi-public space is always challenging.  Clear guidelines of how to treat space, equipment, and one another are essential, and simple rules like “safety: don’t harm people or machines” help keep spaces functioning. 
 
 ## Essential Element: Autonomy
 ### Create Freedom.
@@ -52,8 +52,8 @@ Trust collaborators to work on what matters to them and creates the impacts they
 “Helping” and in some cases even “mentoring” can steal opportunities to learn and grow.  Challenge leaders and mentors not to “fix” complex technical and social problems, but provide cover and create opportunities for a solution to emerge.
 
 ### Resources:
-Impact Field Guide - Impact plans come in many shapes and sizes.  Thinking creatively and holistically about projects, artworks, and products in the context of cultural creation supports collaborators in finding their own voice. 
-Open Leadership Framework - Empowering teams of collaborators to create greater impact is part of our theory of change at Mozilla.  In the intimate and sometimes secretive world of emerging technology development, openness as a practice can help overcome inclusivity bugs. 
+[Impact Field Guide](https://impactguide.org/) - Impact plans come in many shapes and sizes.  Thinking creatively and holistically about projects, artworks, and products in the context of cultural creation supports collaborators in finding their own voice. 
+[Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/) - Empowering teams of collaborators to create greater impact is part of our theory of change at Mozilla.  In the intimate and sometimes secretive world of emerging technology development, openness as a practice can help overcome [inclusivity bugs](https://opensource.com/article/18/8/inclusivity-bugs-open-source-software). 
 
 ## Essential Element: Co-creation
 ### Recruit for diversity.
@@ -66,9 +66,9 @@ Communication breakdowns happen often in emergent, co-creative programs because 
 While maintaining each participants autonomy, collaboration and convergence of projects can emerge when people are encouraged to share their projects and needs before they’re fully formed.  Developers find designers and vice versa. Beware of pre-existing cliques, social media morasses, and conference experiences that can affect dynamics in the space. 
 
 ### Resources: 
-Inclusive Interactions - The presence of diversity alone is not sufficient to create an inclusive space.   
+[Inclusive Interactions](https://www.humanityinaction.org/knowledgebase/700-when-diversity-is-a-given-and-not-the-goal-inclusive-interactions-among-a-culturally-diverse-group) - The presence of diversity alone is not sufficient to create an inclusive space.   
 
-Community Participation Guidelines - Inclusive spaces are less about the physical space and more about how people treat one another in it.  Affirmatively define respectful behavior and call out less respectful behavior. 
+[Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) - Inclusive spaces are less about the physical space and more about how people treat one another in it.  Affirmatively define respectful behavior and call out less respectful behavior. 
 
 ## Essential Element: Mutual Support
 ### Establish a cadence.
@@ -81,8 +81,8 @@ Find leaders who will believe in your initiatives personally and back up your id
 Seeing mentorship and mutual support in action can be a career-changing, if not life-changing experience.  It creates a natural urge to spread those stories, and create new ones through mentorship and friendship.  Encourage this dynamic. 
 
 ### Resources: 
-Clayman Institute Voice and Influence - The approach of creating “circles” of mutual support is one that’s been gaining steam.  Creating some settings of absolute confidentiality is key to establishing trust and sharing experiences around the most difficult barriers to entering emerging technologies as a woman or underrepresented group. 
+[Clayman Institute Voice and Influence](https://womensleadership.stanford.edu/voice) - The approach of creating “circles” of mutual support is one that’s been gaining steam.  Creating some settings of absolute confidentiality is key to establishing trust and sharing experiences around the most difficult barriers to entering emerging technologies as a woman or underrepresented group. 
 
-Chatham house rule - In a setting where collaborators are sharing intimate details and starting stealthy companies, a clear way to reference collective experience and stories without revealing individual identities would be very helpful.  
+[Chatham house rule](https://www.chathamhouse.org/chatham-house-rule) - In a setting where collaborators are sharing intimate details and starting stealthy companies, a clear way to reference collective experience and stories without revealing individual identities would be very helpful.  
 
-Mentoring Post #MeToo - An increased reflexivity about mentoring and what it actually means is a powerful outcome of the MeToo era. 
+[Mentoring Post #MeToo](https://www.fastcompany.com/90252403/9-women-executives-on-how-metoo-has-changed-the-way-they-mentor) - An increased reflexivity about mentoring and what it actually means is a powerful outcome of the MeToo era. 
