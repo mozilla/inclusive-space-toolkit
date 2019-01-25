@@ -40,7 +40,8 @@ Find a space where like minded individuals can share honest perspectives without
 In our case, an underutilized space provided us with limitations that sparked our creativity and enabled the next element: autonomy. Identifying value exchanges, such as dedicated equipment access in exchange for mentoring others on how to use that equipment,  sustains collaboration. 
 
 ### Resources:
-[Make Space](https://dschool.stanford.edu/resources/make-space-excerpts) - The feeling of a creative space can be elusive to describe, but is not rocket science to create.  Furniture that’s flexible enough to support different work styles, coworking, and workshop teaching was very helpful to our effort.  
+[Make Space](https://dschool.stanford.edu/resources/make-space-excerpts) - The feeling of a creative space can be elusive to describe, but is not rocket science to create.  Furniture that’s flexible enough to support different work styles, coworking, and workshop teaching was very helpful to our effort. 
+
 [FabLab Charter](http://fab.cba.mit.edu/about/charter/) - Maintaining cutting-edge equipment in a semi-public space is always challenging.  Clear guidelines of how to treat space, equipment, and one another are essential, and simple rules like “safety: don’t harm people or machines” help keep spaces functioning. 
 <br><br><br>
 
@@ -56,6 +57,7 @@ Trust collaborators to work on what matters to them and creates the impacts they
 
 ### Resources:
 [Impact Field Guide](https://impactguide.org/) - Impact plans come in many shapes and sizes.  Thinking creatively and holistically about projects, artworks, and products in the context of cultural creation supports collaborators in finding their own voice. 
+
 [Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/) - Empowering teams of collaborators to create greater impact is part of our theory of change at Mozilla.  In the intimate and sometimes secretive world of emerging technology development, openness as a practice can help overcome [inclusivity bugs](https://opensource.com/article/18/8/inclusivity-bugs-open-source-software). 
 <br><br><br>
 
