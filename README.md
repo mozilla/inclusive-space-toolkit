@@ -28,6 +28,8 @@ Why host an inclusive development space for emerging technology?
 <br>
 Drawing on the XR Studio pop-up supported by Mozilla in 2018, we offer four essential elements to replicating a space that connects and empowers underrepresented tech makers: Space, Autonomy, Co-Creation, and Mutual Support.  Each element encapsulates the lessons we learned, and useful resources we drew on or discovered as we went. 
 <br>
+This toolkit is v0.1.  Stay tuned for more resources and lessons from us and our many wonderful collaborators!
+<br>
 
 ## Essential Element: Space
 ### Be Together.
