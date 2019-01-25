@@ -1,5 +1,6 @@
-# Inclusive development space for emerging technology: A toolkit
-A toolkit for creating an inclusive development space for emerging technologies
+# Inclusive development space for emerging technology: 
+# A toolkit
+A toolkit for creating an inclusive development space for emerging technologies.
 
 
 Authors: [Miriam Avery](https://github.com/miriamavery), [Ann-Caryn Cleveland](https://github.com/AnnCaryn)
@@ -27,6 +28,7 @@ Why host an inclusive development space for emerging technology?
 * If you’re representing an organization, enrich your talent pool by supporting underrepresented groups in local technical communities
 
 Drawing on the XR Studio pop-up supported by Mozilla in 2018, we offer four essential elements to replicating a space that connects and empowers underrepresented tech makers: Space, Autonomy, Co-Creation, and Mutual Support.  Each element encapsulates the lessons we learned, and useful resources we drew on or discovered as we went. 
+<br><br><br>
 ## Essential Element: Space
 ### Be Together.
 Physical human space (for now) is still the most effective way to build supportive networks. Humans are well, human.  We get tired and  hungry.  Shared connection time increases the flow of information and builds trust.  Sharing food in physical space was perhaps the single most important activity to fostering the deep connections that formed. 
@@ -40,6 +42,7 @@ In our case, an underutilized space provided us with limitations that sparked ou
 ### Resources:
 [Make Space](https://dschool.stanford.edu/resources/make-space-excerpts) - The feeling of a creative space can be elusive to describe, but is not rocket science to create.  Furniture that’s flexible enough to support different work styles, coworking, and workshop teaching was very helpful to our effort.  
 [FabLab Charter](http://fab.cba.mit.edu/about/charter/) - Maintaining cutting-edge equipment in a semi-public space is always challenging.  Clear guidelines of how to treat space, equipment, and one another are essential, and simple rules like “safety: don’t harm people or machines” help keep spaces functioning. 
+<br><br><br>
 
 ## Essential Element: Autonomy
 ### Create Freedom.
@@ -54,6 +57,7 @@ Trust collaborators to work on what matters to them and creates the impacts they
 ### Resources:
 [Impact Field Guide](https://impactguide.org/) - Impact plans come in many shapes and sizes.  Thinking creatively and holistically about projects, artworks, and products in the context of cultural creation supports collaborators in finding their own voice. 
 [Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/) - Empowering teams of collaborators to create greater impact is part of our theory of change at Mozilla.  In the intimate and sometimes secretive world of emerging technology development, openness as a practice can help overcome [inclusivity bugs](https://opensource.com/article/18/8/inclusivity-bugs-open-source-software). 
+<br><br><br>
 
 ## Essential Element: Co-creation
 ### Recruit for diversity.
@@ -69,6 +73,7 @@ While maintaining each participants autonomy, collaboration and convergence of p
 [Inclusive Interactions](https://www.humanityinaction.org/knowledgebase/700-when-diversity-is-a-given-and-not-the-goal-inclusive-interactions-among-a-culturally-diverse-group) - The presence of diversity alone is not sufficient to create an inclusive space.   
 
 [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) - Inclusive spaces are less about the physical space and more about how people treat one another in it.  Affirmatively define respectful behavior and call out less respectful behavior. 
+<br><br><br>
 
 ## Essential Element: Mutual Support
 ### Establish a cadence.
