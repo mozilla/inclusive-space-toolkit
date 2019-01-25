@@ -3,7 +3,7 @@ A toolkit for creating an inclusive development space for emerging technologies.
 
 
 Authors: [Miriam Avery](https://github.com/miriamavery), [Ann-Caryn Cleveland](https://github.com/AnnCaryn)
-<br>
+<br><br><br>
 TABLE OF CONTENTS
 
 * [Introduction](#introduction)
