@@ -27,7 +27,7 @@ Why host an inclusive development space for emerging technology?
 * If you’re representing an organization, enrich your talent pool by supporting underrepresented groups in local technical communities
 <br>
 Drawing on the XR Studio pop-up supported by Mozilla in 2018, we offer four essential elements to replicating a space that connects and empowers underrepresented tech makers: Space, Autonomy, Co-Creation, and Mutual Support.  Each element encapsulates the lessons we learned, and useful resources we drew on or discovered as we went. 
-
+<br>
 ## Essential Element: Space
 ### Be Together.
 Physical human space (for now) is still the most effective way to build supportive networks. Humans are well, human.  We get tired and  hungry.  Shared connection time increases the flow of information and builds trust.  Sharing food in physical space was perhaps the single most important activity to fostering the deep connections that formed. 
