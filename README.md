@@ -1,6 +1,6 @@
-<h1 align='center'> Inclusive development space for emerging technology:<br>A Toolkit</h1>
-A toolkit for creating an inclusive development space for emerging technologies.
+# A toolkit for creating an inclusive development space
 
+![Hero Image](img.gif)
 
 Authors: [Miriam Avery](https://github.com/miriamavery), [Ann-Caryn Cleveland](https://github.com/AnnCaryn)
 <br><br><br>
