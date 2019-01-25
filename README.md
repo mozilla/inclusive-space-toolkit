@@ -2,15 +2,15 @@
 A toolkit for creating an inclusive development space for emerging technologies
 
 
-Authors: Miriam Avery, Ann-Caryn Cleveland
+Authors: [Miriam Avery](https://github.com/miriamavery), [Ann-Caryn Cleveland](https://github.com/AnnCaryn)
 
-TOC
+TABLE OF CONTENTS
 
-Introduction
-Essential Element: Space
-Essential Element: Autonomy
-Essential Element: Co-creation
-Essential Element: Mutual support
+* [Introduction](#introduction)
+* [Essential Element: Space](#essential-element-space)
+* [Essential Element: Autonomy](#essential-element-autonomy)
+* [Essential Element: Co-creation](#essential-element-co-creation)
+* [Essential Element: Mutual support](#essential-element-mutual-support)
 
 ## Introduction
 The pressure to constantly learn, grow new skills, and hustle to make an impact is high in emerging technologies.  Emerging technologies like augmented and virtual reality, artificial intelligence and machine learning are constantly evolving and combining, placing new demands on the people who make them. 
