@@ -11,7 +11,7 @@ TABLE OF CONTENTS
 * [Essential Element: Autonomy](#essential-element-autonomy)
 * [Essential Element: Co-creation](#essential-element-co-creation)
 * [Essential Element: Mutual support](#essential-element-mutual-support)
-<br><br><br>
+<br><br>
 ## Introduction
 The pressure to constantly learn, grow new skills, and hustle to make an impact is high in emerging technologies.  Emerging technologies like augmented and virtual reality, artificial intelligence and machine learning are constantly evolving and combining, placing new demands on the people who make them. 
 
@@ -25,7 +25,7 @@ Why host an inclusive development space for emerging technology?
 * Organizations, community groups, and individuals have an opportunity to ease the way to less biased, more human, more inclusive tech.
 * Gain insights about future signals by supporting independent creators and their unique perspectives
 * If you’re representing an organization, enrich your talent pool by supporting underrepresented groups in local technical communities
-
+<br>
 Drawing on the XR Studio pop-up supported by Mozilla in 2018, we offer four essential elements to replicating a space that connects and empowers underrepresented tech makers: Space, Autonomy, Co-Creation, and Mutual Support.  Each element encapsulates the lessons we learned, and useful resources we drew on or discovered as we went. 
 
 ## Essential Element: Space
