@@ -1,5 +1,4 @@
-# Inclusive development space for emerging technology: 
-# A toolkit
+# Inclusive development space for emerging technology: A toolkit
 A toolkit for creating an inclusive development space for emerging technologies.
 
 
@@ -12,7 +11,7 @@ TABLE OF CONTENTS
 * [Essential Element: Autonomy](#essential-element-autonomy)
 * [Essential Element: Co-creation](#essential-element-co-creation)
 * [Essential Element: Mutual support](#essential-element-mutual-support)
-
+<br><br><br>
 ## Introduction
 The pressure to constantly learn, grow new skills, and hustle to make an impact is high in emerging technologies.  Emerging technologies like augmented and virtual reality, artificial intelligence and machine learning are constantly evolving and combining, placing new demands on the people who make them. 
 
