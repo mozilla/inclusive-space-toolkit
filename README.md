@@ -4,7 +4,7 @@
 
 Authors: [Miriam Avery](https://github.com/miriamavery), [Ann-Caryn Cleveland](https://github.com/AnnCaryn)
 <br><br><br>
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 * [Introduction](#introduction)
 * [Essential Element: Space](#essential-element-space)
