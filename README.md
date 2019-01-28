@@ -1,7 +1,9 @@
 # A toolkit for creating an inclusive development space
 
 ![Hero Image](img.gif)
-
+<br>
+Image: James Dybvig
+<br>
 Authors: [Miriam Avery](https://github.com/miriamavery), [Ann-Caryn Cleveland](https://github.com/AnnCaryn)
 <br><br><br>
 ## TABLE OF CONTENTS
