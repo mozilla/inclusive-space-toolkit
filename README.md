@@ -2,7 +2,7 @@
 
 ![Hero Image](img.gif)
 <br>
-Image: James Dybvig
+Image: [James Dybvig] (https://www.ajamesd.com/Mozilla-Firefox)
 <br>
 Authors: [Miriam Avery](https://github.com/miriamavery), [Ann-Caryn Cleveland](https://github.com/AnnCaryn)
 <br><br><br>
